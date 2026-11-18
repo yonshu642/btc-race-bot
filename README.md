@@ -1,5 +1,9 @@
 # CBBTC mean-reversion bot — btc-race-24h-20261118-1444
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/yonshu642/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/yonshu642/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 A long-only, unleveraged trading bot for the make.fun 24-hour BTC race.
 It speaks `agent-fun/bars-replay/v1` (newline-delimited JSON on
 stdin/stdout) in a single self-contained `main.py`: Python 3 standard
